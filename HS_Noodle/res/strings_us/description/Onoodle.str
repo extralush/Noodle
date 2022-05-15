@@ -1,0 +1,67 @@
+STRINGTABLE Onoodle
+{
+	Onoodle "Noodle";
+
+	NOODLE_GROUP_TITLE "Noodle";
+	NOODLE_GROUP_KNOT_PROPS "Formula Properties";
+	NOODLE_GROUP_SPLINE_PROPS "Spline Properties";
+
+	NOODLE_TYPE "Formula Type";
+	NOODLE_TYPE_TORUS_A "Torus A";
+	NOODLE_TYPE_TORUS_B "Torus B";
+	NOODLE_TYPE_TORUS_C "Torus C";
+
+	NOODLE_PRESET_A_KNOT_23 "Torus A - 2,3 Knot";
+	NOODLE_PRESET_A_KNOT_32 "Torus A - 3,2 Knot";
+	NOODLE_PRESET_A_KNOT_37 "Torus A - 3,7 Knot";
+	NOODLE_PRESET_A_KNOT_94 "Torus A - 9,4 Knot";
+
+	NOODLE_PRESET_B_STAR_A "Torus B - Star 1";
+	NOODLE_PRESET_B_STAR_B "Torus B - Star 2";
+	NOODLE_PRESET_B_STAR_C "Torus B - Star 3";
+	NOODLE_PRESET_B_STAR_D "Torus B - Star 4";
+	NOODLE_PRESET_B_STAR_E "Torus B - Star 5";
+	NOODLE_PRESET_B_FIG8_A "Torus B - Figure Eight 1";
+	NOODLE_PRESET_B_FIG8_B "Torus B - Figure Eight 2";
+	NOODLE_PRESET_B_FIG8_C "Torus B - Figure Eight 3";
+	NOODLE_PRESET_B_CIRC_A "Torus B - Circulating 1";
+	NOODLE_PRESET_B_CIRC_B "Torus B - Circulating 2";
+	NOODLE_PRESET_B_CIRC_C "Torus B - Circulating 3";
+	NOODLE_PRESET_B_PAIR_A "Torus B - Knot Pair 1";
+	NOODLE_PRESET_B_PAIR_B "Torus B - Knot Pair 2";
+	NOODLE_PRESET_B_COMP_A "Torus B - Compound 1";
+	NOODLE_PRESET_B_COMP_B "Torus B - Compound 2";
+
+	NOODLE_PRESET_C_FLEUR_A "Torus C - Fleur 1";
+	NOODLE_PRESET_C_FLEUR_B "Torus C - Fleur 2";
+	NOODLE_PRESET_C_FLEUR_C "Torus C - Fleur 3";
+	NOODLE_PRESET_C_STAR_A "Torus C - Star 1";
+	NOODLE_PRESET_C_STAR_B "Torus C - Star 2";
+	NOODLE_PRESET_C_STAR_C "Torus C - Star 3";
+	NOODLE_PRESET_C_STAR_D "Torus C - Star 4";
+
+	NOODLE_POINT_COUNT "Point Count";
+	NOODLE_SIZE "Size";
+	NOODLE_PRESETS "Presets";
+	NOODLE_CUSTOM_PRESET "Custom";
+	NOODLE_FORMULA_VIEW "Formula";
+	NOODLE_FORMULA_SHOW_VALUES "Show Values";
+
+	NOODLE_VAR_P "p";
+	NOODLE_VAR_Q "q(1,2,3)";
+	NOODLE_VAR_M "m(1,2)";
+	NOODLE_VAR_N "n(1,2,3)";
+	NOODLE_VAR_R "r(1,2)";
+	NOODLE_VAR_S "s(1,2)";
+	NOODLE_SIGN_CHANGE "Sign Change";
+	NOODLE_INTERLACING "Interlacing";
+	NOODLE_AUTO_SOLVE "Auto Solve Z";
+
+	NOODLE_SPLINE_TYPE "Spline Type";
+	NOODLE_SPLINE_TYPE_LINEAR "Linear";
+	NOODLE_SPLINE_TYPE_CUBIC "Cubic";
+	NOODLE_SPLINE_TYPE_AKIMA "Akima";
+	NOODLE_SPLINE_TYPE_BSPLINE "BSpline";
+	NOODLE_SPLINE_TYPE_BEZIER "Bezier";
+	NOODLE_SPLINE_CLOSED "Close Spline";
+}
